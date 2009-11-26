@@ -1,0 +1,7 @@
+*Resharper*
+*.vsspcc
+bin
+Debug
+Release
+*.tmp
+*.pdb
